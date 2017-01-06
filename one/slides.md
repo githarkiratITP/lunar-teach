@@ -27,21 +27,21 @@
 
 To enable delegates to:
 
-- Understand <u>the role</u> of the Business Analyst in an Agile world
+* Understand <u>the role</u> of the Business Analyst in an Agile world
 
-- To prepare for the AgileBA exams
+* To prepare for the AgileBA exams
 
-  - Foundation exam format:
+  * Foundation exam format:
 
-    - 50 questions, 40 minutes, 25 marks to pass (50% pass)
+    * 50 questions, 40 minutes, 25 marks to pass (50% pass)
 
-    - Closed Book
+    * Closed Book
 
-  - Practitioner exam format:
+  * Practitioner exam format:
 
-    - 4 questions, 80 question items, 2.5 hours, 40 marks to pass (50% pass)
+    * 4 questions, 80 question items, 2.5 hours, 40 marks to pass (50% pass)
 
-    - Open Book
+    * Open Book
 
 <!SLIDE>
 
