@@ -1,5 +1,7 @@
 {
   "name": "AgileBA®",
+  "feedback": true,
+  "edit": true,
   "sections": [
     {
       "section": "one"

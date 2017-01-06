@@ -1,4 +1,4 @@
-<!SLIDE center subsection>
+<!SLIDE title-slide>
 
 # AgileBA®
 
@@ -7,9 +7,10 @@
 **Foundation and Practitioner Vanilla Training Materials**
 
 © The APM Group Ltd 2016\. This document is not to be reproduced or re-sold without express permission from The APM Group Ltd. **AgileBA®** is a registered trade mark of Dynamic Systems Development Method Ltd. The APMG-International Swirl AgileBA Device is a trade mark of APM Group Ltd.
+
 <!SLIDE>
 
-## Welcome
+### Welcome
 
 --------------------------------------------------------------------------------
 
@@ -20,17 +21,13 @@
 
 <!SLIDE>
 
-## Course Objectives
+### Course Objectives
 
 --------------------------------------------------------------------------------
 
 To enable delegates to:
 
-- Understand
-
-  <u>the role </u>
-
-  of the Business Analyst in an Agile world
+- Understand <u>the role</u> of the Business Analyst in an Agile world
 
 - To prepare for the AgileBA exams
 
@@ -48,7 +45,7 @@ To enable delegates to:
 
 <!SLIDE>
 
-## Agile BA Handbook
+### Agile BA Handbook
 
 --------------------------------------------------------------------------------
 
@@ -56,7 +53,7 @@ To enable delegates to:
 
 <!SLIDE>
 
-## The role of the Agile Business Analyst
+### The role of the Agile Business Analyst
 
 --------------------------------------------------------------------------------
 
