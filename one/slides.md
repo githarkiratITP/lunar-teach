@@ -6,7 +6,7 @@
 
 **Foundation and Practitioner Vanilla Training Materials**
 
-© The APM Group Ltd 2016\. This document is not to be reproduced or re-sold without express permission from The APM Group Ltd. **AgileBA®** is a registered trade mark of Dynamic Systems Development Method Ltd. The APMG-International Swirl AgileBA Device is a trade mark of APM Group Ltd.
+© The APM Group Ltd 2016. This document is not to be reproduced or re-sold without express permission from The APM Group Ltd. **AgileBA®** is a registered trade mark of Dynamic Systems Development Method Ltd. The APMG-International Swirl AgileBA Device is a trade mark of APM Group Ltd.
 
 <!SLIDE>
 
