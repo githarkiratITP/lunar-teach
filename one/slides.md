@@ -14,10 +14,10 @@
 
 --------------------------------------------------------------------------------
 
-- Introductions
-- Name
-- Background
-- Objectives from the course
+* Introductions
+* Name
+* Background
+* Objectives from the course
 
 <!SLIDE>
 
